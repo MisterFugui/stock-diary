@@ -17,3 +17,17 @@
 ## 4. 明日计划：
 - 如曼卡龙低开不破昨日最低价，可尝试补仓
 - 关注热榜新晋个股，预选低位+高换手股（不追高）
+
+
+
+
+
+
+
+sudo nano /etc/apt/sources.list
+deb http://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ jammy-security main restricted universe multiverse
+sudo apt update
+
